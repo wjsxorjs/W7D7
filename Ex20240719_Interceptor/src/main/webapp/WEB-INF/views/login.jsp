@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>로그인</title>
+<title>SKTogether</title>
 <link rel="icon" href="resources/img/title_logo.png"/>
 <link rel="stylesheet" type="text/css" 
 		href="resources/css/common.css"/>
